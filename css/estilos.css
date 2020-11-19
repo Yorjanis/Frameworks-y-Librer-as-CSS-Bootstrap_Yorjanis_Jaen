@@ -1,0 +1,65 @@
+
+.musica-body {
+background: brown;
+overflow-x: hidden;
+}
+
+
+.container-fluid{
+background:white;	
+}
+
+.logo-img {
+ width: 100px;
+}
+
+.img-social {
+  width: 40px;
+  height: 40px;
+  
+}
+
+.container-menu{
+background:pink;
+width:100%;	
+}
+
+.input-group{
+width:100%;	
+}
+
+.container{
+width:100%;	
+}
+
+.musica-container{
+padding-top: 25px;
+}
+.row{
+	
+padding-top: 25px;	
+}
+
+
+.musica1-container{
+	
+padding-top: 25px;
+	
+}
+
+
+.musica2-container{
+	
+padding-top: 150px;
+}
+
+.musica3-container{
+	
+	padding-top: 150px;
+}
+
+.musica4-container{
+	
+	padding-top: 50px;
+}
+
